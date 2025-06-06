@@ -3,7 +3,10 @@ Portafolio que contiene proyectos del bootcamp Data Analyst de TripleTen
 
 
 ## Sprint 1: Python Básico I
-
+Aprendimos los fundamentos de Python tales como:
+-Tipos de datos
+-Listas
+_liatas anidadas
 
 ## Sprint 2: Python Basico II
 
