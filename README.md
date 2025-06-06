@@ -6,6 +6,7 @@ Portafolio que contiene proyectos del bootcamp Data Analyst de TripleTen
 
 
 ## Sprint 2: Python Basico II
+Aprendimos sobre bucles. condicionales y otros como:
 
 
 ## Sprint 3: Data Wrangling I
